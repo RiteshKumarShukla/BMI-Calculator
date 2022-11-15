@@ -1,0 +1,13 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
+p{
+    font-weight: bold;
+}
+.container{
+    background-color:coral;
+}
+.btn{
+    background-color: black;
+}
